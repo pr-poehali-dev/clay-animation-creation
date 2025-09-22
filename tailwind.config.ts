@@ -61,6 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				hero: {
+					orange: '#FF6B35',
+					blue: '#4A90E2',
+					navy: '#2D3748',
+					lightGray: '#F7FAFC',
+					red: '#E53E3E',
+					gold: '#D69E2E'
 				}
 			},
 			borderRadius: {
